@@ -1,6 +1,6 @@
 body {
-  background-color:#171736;
-  color:#ffffe6;
+  background-color:#3f4555;
+  color:#ffffff;
   text-align:center;
   padding-top:10px;
   padding-left:10%;
@@ -9,7 +9,7 @@ body {
 }
 .header {
   font-family: 'Righteous', cursive;
-  border:3px solid #ffffe6;
+  border:3px solid #ffffff;
   font-size:50px;
   padding:10px;
 }
@@ -18,8 +18,8 @@ body {
   opacity:0.85;
 }
 .navigation-button {
-  border:2px solid #ffffe6;
-  color:#ffffe6;
+  border:2px solid #ffffff;
+  color:#ffffff;
   padding:10px;
   font-size:20px;
   font-family: 'Roboto', sans-serif;
@@ -30,8 +30,8 @@ body {
 .navigation-button {
   display: inline-block;
   border-radius: 4px;
-  border: 2px solid #ffffe6;
-  color: #ffffe6;
+  border: 2px solid #ffffff;
+  color: #ffffff;
   text-align: center;
   font-size: 22px;
   padding: 10px;
@@ -67,8 +67,19 @@ body {
   margin-right:20%;
   font-size:20px;
 }
-.text-body b {
-  background-color:#262659;
+p b {
+  background-color:#4c5367;
   padding:1px;
   border-radius:4px;
+}
+.part-a {
+  color:#ffffff;
+  font-family: 'Roboto', sans-serif;
+  font-size:20px;
+}
+.no-txt-decor {
+  color:#d1d1d1;
+  font-family: 'Roboto', sans-serif;
+  font-size:20px;
+  text-decoration:none;
 }
